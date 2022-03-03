@@ -1,1 +1,2 @@
-prompt$ pwd
+#!/bin/bash 
+pwd
